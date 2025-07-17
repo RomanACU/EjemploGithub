@@ -1,0 +1,5 @@
+p{
+  padding: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: clamp(1rem, -0.0386rem + 4.7478vw, 3rem);
+}
