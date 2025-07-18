@@ -1,0 +1,19 @@
+a{
+  font-size: 50px;
+  color: darkcyan;
+  text-decoration:none;
+}
+a[href]{
+  color:hotpink
+}
+input{
+  caret-color: aquamarine;
+}
+p.columnas{
+  column-count: 3;
+  column-gap: 20px;
+  column-rule: 2px dashed crimson;
+}
+p.identado{
+  text-indent: 5rem;
+}
